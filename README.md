@@ -12,8 +12,8 @@ Data format to be added:
 ```json
 {
     "tripName": "Incredible India",
-    "startDateOfJourney": "19-03-2022",
-    "endDateOfJourney": "27-03-2022",
+    "startDateOfJourney": "19-08-2025",
+    "endDateOfJourney": "27-08-2025",
     "nameOfHotels":"Hotel Namaste, Backpackers Club",
     "placesVisited":"Delhi, Kolkata, Chennai, Mumbai",
     "totalCost": 800000,
@@ -29,4 +29,5 @@ Data format to be added:
 For frontend, you need to create `.env` file and put the following content (remember to change it based on your requirements):
 ```bash
 REACT_APP_BACKEND_URL=http://localhost:3001
+
 ```
